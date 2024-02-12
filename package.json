@@ -1,13 +1,13 @@
 {
-  "name": "codebender-ai-start-js",
+  "name": "iron-vigour-ai",
   "version": "1.0.0",
-  "description": "Codebender AI Starter Project - JS Edition",
+  "description": "Iron Vigour AI Project",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
-  "author": "Zaurbek Stark",
+  "author": "Jama Ali",
   "license": "MIT",
   "private": true,
   "devDependencies": {
